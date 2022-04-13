@@ -1,0 +1,9 @@
+current directory: /home/zig/Demo proj/poly-demo/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220412-34771-1c79n43.rb extconf.rb
+creating Makefile
+
+current directory: /home/zig/Demo proj/poly-demo/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+current directory: /home/zig/Demo proj/poly-demo/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+make failedNo such file or directory - make

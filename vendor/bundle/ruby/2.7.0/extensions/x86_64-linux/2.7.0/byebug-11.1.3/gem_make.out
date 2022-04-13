@@ -1,0 +1,9 @@
+current directory: /home/zig/Demo proj/poly-demo/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220412-34771-k3pc2b.rb extconf.rb
+creating Makefile
+
+current directory: /home/zig/Demo proj/poly-demo/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= clean
+current directory: /home/zig/Demo proj/poly-demo/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\=
+make failedNo such file or directory - make

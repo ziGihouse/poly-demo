@@ -1,0 +1,9 @@
+current directory: /home/zig/Demo proj/poly-demo/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220412-34771-6yvfqe.rb extconf.rb
+creating Makefile
+
+current directory: /home/zig/Demo proj/poly-demo/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= clean
+current directory: /home/zig/Demo proj/poly-demo/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\=
+make failedNo such file or directory - make

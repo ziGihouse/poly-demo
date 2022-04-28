@@ -2,23 +2,23 @@ GEM
   remote: https://rubygems.org/
   specs:
     actioncable (6.0.4.1)
-      actionpack (= 6.0.4.1)
+      actionpack (= 6.0.4.8)
       nio4r (~> 2.0)
       websocket-driver (>= 0.6.1)
     actionmailbox (6.0.4.1)
-      actionpack (= 6.0.4.1)
+      actionpack (= 6.0.4.8)
       activejob (= 6.0.4.1)
       activerecord (= 6.0.4.1)
       activestorage (= 6.0.4.1)
       activesupport (= 6.0.4.1)
       mail (>= 2.7.1)
     actionmailer (6.0.4.1)
-      actionpack (= 6.0.4.1)
+      actionpack (= 6.0.4.8)
       actionview (= 6.0.4.1)
       activejob (= 6.0.4.1)
       mail (~> 2.5, >= 2.5.4)
       rails-dom-testing (~> 2.0)
-    actionpack (6.0.4.1)
+    actionpack (6.0.4.8)
       actionview (= 6.0.4.1)
       activesupport (= 6.0.4.7)
       rack (~> 2.0, >= 2.0.8)
@@ -26,7 +26,7 @@ GEM
       rails-dom-testing (~> 2.0)
       rails-html-sanitizer (~> 1.0, >= 1.2.0)
     actiontext (6.0.4.1)
-      actionpack (= 6.0.4.1)
+      actionpack (= 6.0.4.8)
       activerecord (= 6.0.4.1)
       activestorage (= 6.0.4.1)
       activesupport (= 6.0.4.1)
@@ -114,7 +114,7 @@ GEM
       actioncable (= 6.0.4.1)
       actionmailbox (= 6.0.4.1)
       actionmailer (= 6.0.4.1)
-      actionpack (= 6.0.4.1)
+      actionpack (= 6.0.4.8)
       actiontext (= 6.0.4.1)
       actionview (= 6.0.4.1)
       activejob (= 6.0.4.1)
@@ -131,7 +131,7 @@ GEM
     rails-html-sanitizer (1.4.2)
       loofah (~> 2.3)
     railties (6.0.4.1)
-      actionpack (= 6.0.4.1)
+      actionpack (= 6.0.4.8)
       activesupport (= 6.0.4.1)
       method_source
       rake (>= 0.8.7)
@@ -200,7 +200,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  actionpack (>= 6.0.3.2)
+  actionpack (>= 6.0.4.8)
   activesupport (>= 6.0.3.1)
   bootsnap (>= 1.4.2)
   byebug
